@@ -32,5 +32,26 @@
 * Kirjoitan projektisuunnitelman, asennusraportit ja tietoturvakuvauksen  
 * Teen kuvakaappauksia jokaisesta työvaiheesta  
 * Kirjoitan päiväkirjaa joka työpäivä
+
+
+
+**5.PERUSTOIMINTO:** 
+
+## **5.1 Active Directoryn käyttöönotto** 
+
+* Tavoite:  
+   Määrittää Active Directory **\-**toimialue alusta alkaen.  
+* Vaiheet:  
+* Asenna Windows Server virtuaalikoneeseen.  
+* Ylennä palvelin toimialueen ohjaimeksi (Domain Controller, DC).  
+* Luo Active Directory **\-**toimialue.  
+* Luo organisaatioyksiköt (OU:t) eri osastoja varten.  
+* Luo käyttäjätilit ja ryhmät näihin organisaatioyksiköihin.
+
+
+## 📑 Sisällysluettelo
+
+- #projektin-yleiskuvaus
+- #tekninen-ympäristö
   >>## [Week 1 – Suunnittelu & alkuasetukset](docs/week-1.md)
   
