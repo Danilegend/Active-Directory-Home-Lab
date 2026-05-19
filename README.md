@@ -1,5 +1,9 @@
 # project-it-environment
-IT infrastructure project using Windows Server and Active Directory
+
+> Built using Windows Server & Active Directory  
+> 📅 April–May 2026  
+> 💻 VMware Lab Environment
+
 ![General Look of the project ](images/other/Gemini_Generated_Image_1b6s5j1b6s5j1b6s.png)
 
 
@@ -100,23 +104,23 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 
 - #projektin-yleiskuvaus
 - #tekninen-ympäristö
+## 📅 Viikkokohtainen työ
 
-### 📅 Viikkokohtainen työ
-- #week-1--suunnittelu--alkuasetukset
-- #week-2--virtuaaliympäristö
-- #week-3--palvelimen-asennus
-- #week-4--active-directory
-- #week-5--käyttäjät--ryhmät
-- #week-6--gpo--määritykset
-- #week-7--testaus--dokumentaatio
-
+- ✅ [Week 1 – Suunnittelu & alkuasetukset](#week-1--suunnittelu--alkuasetukset)
+- 🖥️ [Week 2 – Virtuaaliympäristö](#week-2--virtuaaliympäristö)
+- ⚙️ [Week 3 – Palvelimen asennus](#week-3--palvelimen-asennus)
+- 🔐 [Week 4 – Active Directory](#week-4--active-directory)
+- 👥 [Week 5 – Käyttäjät & ryhmät](#week-5--käyttäjät--ryhmät)
+- 🛠️ [Week 6 – GPO & määritykset](#week-6--gpo--määritykset)
+- ✅ [Week 7 – Testaus & dokumentaatio](#week-7--testaus--dokumentaatio)
+``
 ---
 
 # 📅 VIikkokohtainen työ
 
 ---
 
-## ✅ Week 1 – Suunnittelu & alkuasetukset
+## Week 1 – Suunnittelu & alkuasetukset
 
 ### 🔧 Tehtävät
 - Projektin suunnittelu
