@@ -70,9 +70,10 @@ Projektin tavoitteena on:
 - VMware asennus
 - Windows Server ISO lataus
 
-### 📸 Kuvakaappaukset
+### 📸 images/vmware/vmware1.jpg
 
 
+images/vmware/vmware1.jpg
 
 
 
