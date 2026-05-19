@@ -1,5 +1,6 @@
 # project-it-environment
 IT infrastructure project using Windows Server and Active Directory
+![VMware setup](images/other/Gemini_Generated_Image_1b6s5j1b6s5j1b6s.png)
 
 
 # 🖥️ IT-ympäristöprojekti – Northwind Tech Oy
