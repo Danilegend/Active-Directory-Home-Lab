@@ -4,4 +4,4 @@
 
 
 
->>## [Week 3 – Palvelimen asennus](docs/week-3.md)
+>>## [Week 3 – Palvelimen asennus](/docs/week-3.md)
