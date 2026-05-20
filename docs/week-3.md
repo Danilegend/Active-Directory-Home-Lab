@@ -2,7 +2,7 @@
 
 
 ## Week 3 **Järjestelmätuen tavoitteet:** 
-📅 18–24 April  
+📅 24–30 April  
 
 ----
 * Asennan Windows Server 2022 \-palvelimen  
