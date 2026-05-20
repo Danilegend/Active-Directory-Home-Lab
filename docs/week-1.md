@@ -10,7 +10,8 @@
 
 
 ----
-## **6.VMWARE WORKSTATIONIN ASENTAMINEN** {#6.vmware-workstationin-asentaminen}
+## **6.VMWARE WORKSTATIONIN ASENTAMINEN** 
+---
 
 Asensin VMware Workstation **\-**virtualisointiohjelman ja loin virtuaalikoneen Windows Serverille.
 
