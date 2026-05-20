@@ -12,6 +12,8 @@
 * Teen varmuuskopion ja testaan palautuksen  
 * Seuraan palvelimia (monitorointi)
 
+**![structure of the project](images/other/NorthWind_02.drawio.png)**
+
 
 ## **10\. ACTIVE DIRECTORYN ASENTAMINEN** {#10.-active-directoryn-asentaminen}
 
