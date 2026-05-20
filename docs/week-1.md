@@ -19,6 +19,22 @@ Voit käynnistää sovelluksen **Windowsin työpöydällä olevasta pikakuvakkee
  Nyt näemme VMware**\-**alustan.
  
 
+
+## **8\. UUDEN VIRTUAALIKONEEN (VM) LUOMINEN** 
+
+Virtuaalikone luotiin VMware Workstation \-ympäristöön, jotta IT-infrastruktuuria voidaan testata turvallisesti ilman vaikutusta fyysiseen laitteistoon. Virtualisointi mahdollistaa useiden erillisten järjestelmien ajamisen samassa ympäristössä, mikä on yleinen käytäntö IT-alalla.
+
+
+**![installation VMWARE](/images/vmware/sub_vmware/vmLuom.drawio.png)**
+
+
+VMware VM \> New \> Nimi ja käyttöjärjestelmä \> Muisti (RAM) \> Kiintolevy (VDI/VHD) \> Tallennustila (dynaaminen/kiinteä) \> Levyn koko \> Create
+
+
+
+
+
+
 ## **2\. WINDOWS SERVER** \-**ISO**\-**TIEDOSTON LATAAMINEN** 
 
 1\. Windows Server **\-**ISO**\-**tiedoston asentamista varten voit etsiä millä tahansa hakukoneella hakusanalla [Windows Server ISO version tai Windows Server 2022 | Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) ja valita Windows Server 2022:n uusimman version.
@@ -28,15 +44,7 @@ Voit käynnistää sovelluksen **Windowsin työpöydällä olevasta pikakuvakkee
 
 2\. Lataus kestää jonkin aikaa. Kun lataus on valmis, avaa VMware Workstation **\-**sovellus ja luo virtuaalikone.
 
-## **8\. UUDEN VIRTUAALIKONEEN (VM) LUOMINEN** {#8.-uuden-virtuaalikoneen-(vm)-luominen}
 
-Virtuaalikone luotiin VMware Workstation \-ympäristöön, jotta IT-infrastruktuuria voidaan testata turvallisesti ilman vaikutusta fyysiseen laitteistoon. Virtualisointi mahdollistaa useiden erillisten järjestelmien ajamisen samassa ympäristössä, mikä on yleinen käytäntö IT-alalla.
-
-**![][image5]**
-
-**![][image6]**
-
-VMware VM \> New \> Nimi ja käyttöjärjestelmä \> Muisti (RAM) \> Kiintolevy (VDI/VHD) \> Tallennustila (dynaaminen/kiinteä) \> Levyn koko \> Create
 
 ## **9\. WINDOWS SERVER SETUP** {#9.-windows-server-setup}
 
