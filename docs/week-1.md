@@ -10,16 +10,7 @@
 
 
 ----
-## **6.VMWARE WORKSTATIONIN ASENTAMINEN** 
----
-
-Asensin VMware Workstation **\-**virtualisointiohjelman ja loin virtuaalikoneen Windows Serverille.
-
-* Etsi VMware Workstation millä tahansa hakukoneella tai napsauta suoraan tätä linkkiä:  
-   [Download and license VMware Desktop Hypervisor for personal use (Fusion Pro and Workstation Pro](https://knowledge.broadcom.com/external/article?articleNumber=368667))  
-   (broadcom.com)  
-* Rekisteröidy Broadcomin verkkosivustolle. Rekisteröitymisen jälkeen kirjaudu sisään Broadcom**\-**tunnuksillasi ja valitse VMware Workstation Pro.  
-* Voit halutessasi valita kohdat User Experience Settings. Tämä ei ole pakollista, ja jos et tarvitse niitä, on suositeltavaa jättää valinnat tekemättä.
+## **1.VMWARE WORKSTATIONIN ASENTAMINEN** 
 ---
 
 **![installation VMWARE](/images/vmware/finalVMware.drawio.png)**
