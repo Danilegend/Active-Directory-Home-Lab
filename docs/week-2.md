@@ -9,7 +9,7 @@
 
 ---
 
-### Tasks
+### 🔧 Tehtävät
 
   - Asenna Windows Server 2022
   - Alustava palvelimen määritys
