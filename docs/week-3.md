@@ -1,7 +1,9 @@
  >>## [Home](/README.md)     - [week-1](/docs/week-1.md)  - [week-2](/docs/week-1.md) 
 
 
-## **3.1 Järjestelmätuen tavoitteet:** 
+## Week 3 **Järjestelmätuen tavoitteet:** 
+📅 18–24 April  
+
 ----
 * Asennan Windows Server 2022 \-palvelimen  
 * Teen Active Directory \-domainin  
