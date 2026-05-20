@@ -1,6 +1,6 @@
 
-   >>## [Home](/README.md)
->  >>>## [week-1](/docs/week-1.md) 
+   >>## [Home](/README.md)     - [week-1](/docs/week-1.md) 
+
 
 
 
@@ -18,4 +18,6 @@ Week 2 – Virtual Environment
 ----
 
 
->>## [Week 3 – Palvelimen asennus](/docs/week-3.md)
+
+<< [week-1](/docs/week-1.md) 
+>>## >> [Week 3 – Palvelimen asennus](/docs/week-3.md)
