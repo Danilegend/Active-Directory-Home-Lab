@@ -53,5 +53,5 @@
 
 - #projektin-yleiskuvaus
 - #tekninen-ympäristö
-  >>## [Week 1 – Suunnittelu & alkuasetukset](docs/week-1.md)
+  >>## [Week 2 – Virtuaaliympäristö](docs/week-2.md)
   
