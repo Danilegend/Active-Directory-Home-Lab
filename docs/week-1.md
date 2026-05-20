@@ -54,5 +54,5 @@
 - #projektin-yleiskuvaus
 - #tekninen-ympäristö
   
-  >>## [Week 2 – Virtuaaliympäristö](docs/week-2.md)
+  >>## [Week 2 – Virtuaaliympäristö](/docs/week-2.md)
   
