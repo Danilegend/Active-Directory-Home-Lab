@@ -20,9 +20,10 @@ Asensin VMware Workstation **\-**virtualisointiohjelman ja loin virtuaalikoneen 
    (broadcom.com)  
 * Rekisteröidy Broadcomin verkkosivustolle. Rekisteröitymisen jälkeen kirjaudu sisään Broadcom**\-**tunnuksillasi ja valitse VMware Workstation Pro.  
 * Voit halutessasi valita kohdat User Experience Settings. Tämä ei ole pakollista, ja jos et tarvitse niitä, on suositeltavaa jättää valinnat tekemättä.
+---
 
+**![installation VMWARE](/images/vmware/finalVMware.drawio.png)**
 
-**![installation VMWARE](images/vmware/finalVMware.drawio.png)**
 
 
 Kun kaikki on valmista, napsauta \> **Install**.  
