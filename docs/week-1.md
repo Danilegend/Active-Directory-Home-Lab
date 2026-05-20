@@ -24,6 +24,7 @@ Asensin VMware Workstation **\-**virtualisointiohjelman ja loin virtuaalikoneen 
 
 **![installation VMWARE](images/vmware/finalVMware.drawio.png)**
 
+
 Kun kaikki on valmista, napsauta \> **Install**.  
 Odota, että asennus valmistuu, ja napsauta lopuksi \> **Finish.**
 
