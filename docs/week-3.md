@@ -21,7 +21,7 @@
 ## 🎥 Video
 
 ▶️ Katso video:
-images/videos/Delicious sushi awaits.mp4
+/images/videos/Delicious sushi awaits.mp4
 
 
 
