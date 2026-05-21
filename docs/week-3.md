@@ -18,6 +18,11 @@
 
 
 
+## 🎥 Video
+
+▶️ Katso video:
+images/videos/Delicious sushi awaits.mp4
+
 
 
 ## **10\. ACTIVE DIRECTORYN ASENTAMINEN** {#10.-active-directoryn-asentaminen}
