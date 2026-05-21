@@ -25,6 +25,10 @@
 
 ## 🎥 Video
 
+Watch VMware installation video
+(images/videos/installation.mp4)
+
+
 ▶️ Katso video:
 images/videos/installation.mp4
 
