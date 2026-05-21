@@ -68,6 +68,24 @@ Roolin asennuksen jälkeen Promota DC1 toimialueen ohjauskoneeksi.
 <img width="565" height="266" alt="image" src="https://github.com/user-attachments/assets/0be1553e-7e65-4c8f-a6b8-c330745fedc4" />
 
 
+Wizard käynnistyy seuraavaksi, lisätään uusi metsä Northwind.local
+--
+
+<img width="754" height="556" alt="Screenshot from 2026-05-21 15-52-10" src="https://github.com/user-attachments/assets/24ea8b9e-207e-47a4-8c62-69adb22079c8" />
+
+
+Next > Määritä Restore Mode salasana, P@ssw0rd
+
+
+<img width="742" height="369" alt="image" src="https://github.com/user-attachments/assets/ad8d8079-5cce-4012-9a66-abc6b5187fdc" />
+
+Hyväksy esitietovaatimukset > Install > Asennus käynnistyy
+
+<img width="376" height="276" alt="image" src="https://github.com/user-attachments/assets/f7b17678-b821-4423-a36a-0ad7c5bf9194" />
+
+Kirjaudu toimialueelle > Administrator tunnuksella
+
+<img width="2560" height="1440" alt="Screenshot from 2026-05-21 16-02-11" src="https://github.com/user-attachments/assets/53037d54-04b5-4d24-9670-0a79ad1250a5" />
 
 3\. Valitse asennustyypiksi “**Roolipohjainen tai ominaisuuspohjainen asennus**”  
 4\. Valitse kohdepalvelin ja napsauta “**Next**”.
