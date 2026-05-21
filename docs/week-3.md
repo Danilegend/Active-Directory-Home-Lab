@@ -112,7 +112,12 @@ Hyväksy esitietovaatimukset > Install > Asennus käynnistyy
 
 <img width="376" height="276" alt="image" src="https://github.com/user-attachments/assets/f7b17678-b821-4423-a36a-0ad7c5bf9194" />
 
+
+<img width="2560" height="1440" alt="Screenshot from 2026-04-27 12-28-14" src="https://github.com/user-attachments/assets/50f5d124-4060-423e-a969-389a18224303" />
+
+
 Kirjaudu toimialueelle > Administrator tunnuksella
+
 
 <img width="2560" height="1440" alt="Screenshot from 2026-05-21 16-02-11" src="https://github.com/user-attachments/assets/53037d54-04b5-4d24-9670-0a79ad1250a5" />
 
@@ -130,50 +135,7 @@ Näin ollen tällä tavalla luodaan Active Directory \-asennus.
 5. **Eristäminen (Isolation)** – Metsiä voidaan käyttää Active Directory \-puiden eristämiseen tiettyjen tietojen mukaan.  
 6. **Luottamus metsien välillä** – Kahden metsän välille voidaan luoda luottamussuhde, jotta ne voivat jakaa resursseja keskenään. Tätä kutsutaan metsien väliseksi luottamukseksi (**forest trust**).
 
-**![][image12]**
 
-
-**Vaihe 3: “Routing”-palvelun asentaminen**
-
-Windows ei automaattisesti jaa internet-yhteyttä NIC 1:stä NIC 2:een. Sinun täytyy määrittää se toimimaan reitittimenä.
-
-1. Avaa **Server Manager** → **Add Roles and Features**.  
-2. Valitse **Remote Access**.
-
-**![][image18]**
-
-3. **Role Services** \-sivulla rastita **Routing** (tämä valitsee automaattisesti myös **DirectAccess and VPN**).  
-4. Viimeistele asennus ja käynnistä palvelin uudelleen, jos sinua pyydetään tekemään niin.
-
-            Nyt palvelimesi pystyy toimimaan reitittimenä.
-
-**![][image19]**
-
-**Vaihe 4: NAT-asetusten määrittäminen (”Taikavaihe”)**
-
-Nyt määritetään Windows jakamaan internet-yhteys WAN-liitännästä LAN-verkkoon.
-
-1. Siirry kohtaan **Tools** → **Routing and Remote Access**.  
-2. Napsauta palvelimen nimeä hiiren oikealla ja valitse **Configure and Enable Routing and Remote Access**.  
-3. Valitse **Network Address Translation (NAT)**.  
-4. **Tärkeää:** Valitse **WAN-liitäntä** (se, jossa on internet-yhteys) julkiseksi verkkoliitännäksi (*public interface*).  
-5. Viimeistele ohjattu toiminto (**wizard**).
-
-Nyt palvelin jakaa internet-yhteyden sisäverkkoon.
-
-**![][image20]**
-
-**![][image21]**
-
-## 
-
-\- WAN (internet)  
-\- LAN (sisäverkko)
-
-Palvelin toimii reitittimenä käyttäen NAT**\-**asetuksia.  
-Työasemat saavat IP**\-**osoitteet DHCP**\-**palvelun kautta.
-
-## 
 
 
 << [Home](/README.md)  
