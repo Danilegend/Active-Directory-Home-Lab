@@ -1,4 +1,11 @@
 
+ >>## [Home](/README.md)     - [week-1](/docs/week-1.md)  - [week-2](/docs/week-1.md)  - [week-3](/docs/week-3.md) 
+
+
+## Week 3 **Järjestelmätuen tavoitteet:** 
+📅 24–30 April  
+
+----
 
 
 
