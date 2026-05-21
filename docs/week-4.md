@@ -3,7 +3,7 @@
 
 
 ## Week 3 **Järjestelmätuen tavoitteet:** 
-📅 24–30 April  
+📅 2–02 May
 
 ----
 
@@ -88,3 +88,10 @@ Työasemat saavat IP**\-**osoitteet DHCP**\-**palvelun kautta.
 
 - #projektin-yleiskuvaus
 - #tekninen-ympäristö
+
+
+
+<< [Home](/README.md)  
+<< [week-1](/docs/week-1.md) 
+<< [week-2](/docs/week-2.md) 
+<< [week-3](/docs/week-3.md) 
