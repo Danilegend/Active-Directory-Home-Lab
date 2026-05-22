@@ -16,9 +16,15 @@
 <img width="1039" height="2311" alt="AD_rhymät drawio" src="https://github.com/user-attachments/assets/20afd78c-0232-453d-ad10-dd59c2e7eae6" />
 
 
+## 🎥 **1 Kotikansion luominen**
+
 
 
 https://github.com/user-attachments/assets/beeb05d1-9128-4238-b270-82614148d86e
+
+## 🎥 **2 Kotikansion luominen**
+
+https://github.com/user-attachments/assets/d50d9a82-9153-4b43-80aa-8307b6c5982b
 
 
 
