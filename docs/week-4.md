@@ -7,7 +7,7 @@
 📅 2–02 May
 
 ----
-
+VERKKOSOVITTIMIEN MÄÄRITYS
 
 
 <img width="1007" height="733" alt="RAS_nat drawio" src="https://github.com/user-attachments/assets/f9e30361-e417-44dc-9614-b7339579e5cd" />
