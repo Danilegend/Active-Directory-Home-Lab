@@ -48,4 +48,4 @@
 
 
 << [week-1](/docs/week-1.md) 
->>## >> [Week 3 – Palvelimen asennus](/docs/week-3.md)
+>>## >> [Viikko 3 – Palvelimen asennus](/docs/week-3.md)
