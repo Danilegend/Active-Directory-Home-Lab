@@ -3,13 +3,20 @@
   >> [viikko-1](/docs/week-1.md) >> [viikko-2](/docs/week-2.md) >> [viikko-3](/docs/week-3.md) >> [viikko-4](/docs/week-4.md) >> [viikko-5](/docs/week-5.md)  >> [viikko-6](/docs/week-6.md) >> [viikko-7](/docs/week-7.md) >> [viikko-8](/docs/week-8.md) 
 ---
 
-## Week 3 **Järjestelmätuen tavoitteet:** 
+## Viikko 3 **VERKKOSOVITTIMIEN MÄÄRITYS:** 
 📅 2–02 May
 
 ----
-VERKKOSOVITTIMIEN MÄÄRITYS
 
+### 🔧 Tehtävät
 
+  - Asenna Remote Access
+  - Alustava DHCP
+  - Määritä Administrator‑tili
+  - \- WAN (internet)  
+  \- LAN (sisäverkko)
+
+---
 <img width="1007" height="733" alt="RAS_nat drawio" src="https://github.com/user-attachments/assets/f9e30361-e417-44dc-9614-b7339579e5cd" />
 
 
@@ -21,14 +28,12 @@ Windows ei automaattisesti jaa internet-yhteyttä NIC 1:stä NIC 2:een. Sinun t�
 1. Avaa **Server Manager** → **Add Roles and Features**.  
 2. Valitse **Remote Access**.
 
-**![][image18]**
 
 3. **Role Services** \-sivulla rastita **Routing** (tämä valitsee automaattisesti myös **DirectAccess and VPN**).  
 4. Viimeistele asennus ja käynnistä palvelin uudelleen, jos sinua pyydetään tekemään niin.
 
-            Nyt palvelimesi pystyy toimimaan reitittimenä.
+Nyt palvelimesi pystyy toimimaan reitittimenä.
 
-**![][image19]**
 
 **Vaihe 4: NAT-asetusten määrittäminen (”Taikavaihe”)**
 
@@ -51,10 +56,6 @@ https://github.com/user-attachments/assets/7c2eb915-238d-4500-b3bc-5375709adb0d
 
 
 
-## 
-
-\- WAN (internet)  
-\- LAN (sisäverkko)
 
 Palvelin toimii reitittimenä käyttäen NAT**\-**asetuksia.  
 Työasemat saavat IP**\-**osoitteet DHCP**\-**palvelun kautta.
