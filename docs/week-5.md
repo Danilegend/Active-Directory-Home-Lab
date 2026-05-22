@@ -15,6 +15,15 @@
   \- LAN (sisäverkko)
 
 ---
+
+<img width="1039" height="2311" alt="AD_rhymät drawio" src="https://github.com/user-attachments/assets/20afd78c-0232-453d-ad10-dd59c2e7eae6" />
+
+
+
+
+
+
+
 ----
 Käyttäjät ja ryhmät
 
