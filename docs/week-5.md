@@ -13,6 +13,7 @@
   - Kotikansion luominen
 
 ---
+
 <img width="1031" height="481" alt="Rhymäat drawio" src="https://github.com/user-attachments/assets/48755b2e-4e10-4e7c-9ff6-f780dac96be1" />
 
 <img width="1039" height="2311" alt="AD_rhymät drawio" src="https://github.com/user-attachments/assets/20afd78c-0232-453d-ad10-dd59c2e7eae6" />
@@ -29,6 +30,7 @@ https://github.com/user-attachments/assets/beeb05d1-9128-4238-b270-82614148d86e
 https://github.com/user-attachments/assets/d50d9a82-9153-4b43-80aa-8307b6c5982b
 
 
+<img width="3780" height="4444" alt="image" src="https://github.com/user-attachments/assets/3a78652a-1f8e-47e7-a021-7c93265040e9" />
 
 
 
