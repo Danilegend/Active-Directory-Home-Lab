@@ -33,6 +33,12 @@ https://github.com/user-attachments/assets/d50d9a82-9153-4b43-80aa-8307b6c5982b
 <img width="3780" height="4444" alt="image" src="https://github.com/user-attachments/assets/3a78652a-1f8e-47e7-a021-7c93265040e9" />
 
 
+##  **2 Toisen palvelimen liittäminen**
+
+Toisen palvelimen liittäminen Toimialueeseen (DAN01 – tiedostopalvelin)
+**Administrator ja Password**
+
+<img width="768" height="648" alt="Screenshot from 2026-05-22 17-59-48" src="https://github.com/user-attachments/assets/d1d447d5-2e5f-4d01-ab43-3867cf391b5f" />
 
 
 ----
