@@ -11,6 +11,7 @@
 
   - Käyttäjät & ryhmät
   - Kotikansion luominen
+  - käyttäjien automaattinen luonti powershellilla
   - Helpdesk‑tehtävät
   - Toisen palvelimen liittäminen 
 
@@ -19,6 +20,12 @@
 <img width="1031" height="481" alt="Rhymäat drawio" src="https://github.com/user-attachments/assets/48755b2e-4e10-4e7c-9ff6-f780dac96be1" />
 
 <img width="1039" height="2311" alt="AD_rhymät drawio" src="https://github.com/user-attachments/assets/20afd78c-0232-453d-ad10-dd59c2e7eae6" />
+
+  ## **Globaali ryhmät ja Domain Local ryhmien luonti**
+<img width="4340" height="5016" alt="image" src="https://github.com/user-attachments/assets/cc825f51-f1f6-4e6f-b6fc-0ba9a4303315" />
+
+
+
 
 
 ## 🎥 **1 Kotikansion luominen**
@@ -54,8 +61,8 @@ Toisen palvelimen liittäminen Toimialueeseen (DAN01 – tiedostopalvelin)
 
 <img width="883" height="1465" alt="Deligation drawio" src="https://github.com/user-attachments/assets/322329c7-8ce8-4b3b-9fc4-38d387768a68" />
 
-<img width="1176" height="186" alt="Screenshot from 2026-05-28 17-35-01" src="https://github.com/user-attachments/assets/58060330-b497-45cd-a843-3ee63fe6f52b" />
 
+<img width="1176" height="186" alt="Screenshot from 2026-05-28 17-35-01" src="https://github.com/user-attachments/assets/58060330-b497-45cd-a843-3ee63fe6f52b" />
 
 
 https://github.com/user-attachments/assets/a712a340-bdf9-444c-ab1e-c0bf06f25dab
