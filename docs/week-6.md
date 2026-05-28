@@ -24,8 +24,16 @@ Tulostimet
 <img width="2916" height="1880" alt="image" src="https://github.com/user-attachments/assets/add6b866-19c7-4598-9cb1-1fdd0cbad904" />
 <img width="3900" height="3256" alt="image" src="https://github.com/user-attachments/assets/7405e883-9bb4-408d-b10b-91d225e8d1e2" />
 
- 
-<img width="1035" height="3752" alt="GPO3" src="https://github.com/user-attachments/assets/03bc6aec-3bd9-417e-b2ce-c500bbf7199f" />
+<img width="4008" height="2400" alt="image" src="https://github.com/user-attachments/assets/93939683-cbb9-4003-94d9-3247f288f7d8" />
+
+<img width="4220" height="2400" alt="image" src="https://github.com/user-attachments/assets/670745d0-0a22-4578-8873-45fd61134f3a" />
+
+<img width="4052" height="1580" alt="image" src="https://github.com/user-attachments/assets/8d4350c1-3aac-44c5-a715-0100024f65c0" />
+
+<img width="3340" height="2344" alt="image" src="https://github.com/user-attachments/assets/675751b6-a3a8-4f5a-82a9-0e27bb35fc23" />
+<img width="2868" height="1488" alt="image" src="https://github.com/user-attachments/assets/98b79f8c-be7e-4ed7-8490-389b9d0aa636" />
+
+
 
 
 
