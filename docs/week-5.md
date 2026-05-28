@@ -54,8 +54,9 @@ Toisen palvelimen liittäminen Toimialueeseen (DAN01 – tiedostopalvelin)
 
 <img width="883" height="1465" alt="Deligation drawio" src="https://github.com/user-attachments/assets/322329c7-8ce8-4b3b-9fc4-38d387768a68" />
 
+<img width="1176" height="186" alt="Screenshot from 2026-05-28 17-35-01" src="https://github.com/user-attachments/assets/58060330-b497-45cd-a843-3ee63fe6f52b" />
 
-<img width="4348" height="768" alt="image" src="https://github.com/user-attachments/assets/6d6b9a53-0274-4d9f-ae5a-ab2fddcc39b5" />
+
 
 https://github.com/user-attachments/assets/a712a340-bdf9-444c-ab1e-c0bf06f25dab
 
