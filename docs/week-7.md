@@ -139,4 +139,12 @@ Kysymyksiin vastaaminen
 ## 📑 Sisällysluettelo
 
 - #projektin-yleiskuvaus
+
+
+
+<< [Home](/README.md)  
+<< [week-1](/docs/week-1.md) 
+<< [week-2](/docs/week-2.md) 
+>>## >> [Week 8 – Palvelimen asennus](/docs/week-8.md)
+
 - #tekninen-ympäristö
