@@ -26,9 +26,22 @@ Tulostimet
 
 <img width="4008" height="2400" alt="image" src="https://github.com/user-attachments/assets/93939683-cbb9-4003-94d9-3247f288f7d8" />
 
-<img width="4220" height="2400" alt="image" src="https://github.com/user-attachments/assets/670745d0-0a22-4578-8873-45fd61134f3a" />
 
-<img width="4052" height="1580" alt="image" src="https://github.com/user-attachments/assets/8d4350c1-3aac-44c5-a715-0100024f65c0" />
+
+<img width="1086" height="754" alt="Screenshot from 2026-05-29 08-18-28" src="https://github.com/user-attachments/assets/8728fc22-4c77-4757-9580-4cff3b9a1dfc" />
+
+
+
+<img width="1010" height="1956" alt="zip" src="https://github.com/user-attachments/assets/de24998e-b47a-4d19-9a69-0a297d566357" />
+
+
+
+
+
+
+
+
+
 
 <img width="3340" height="2344" alt="image" src="https://github.com/user-attachments/assets/675751b6-a3a8-4f5a-82a9-0e27bb35fc23" />
 <img width="2868" height="1488" alt="image" src="https://github.com/user-attachments/assets/98b79f8c-be7e-4ed7-8490-389b9d0aa636" />
