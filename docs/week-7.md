@@ -15,8 +15,9 @@
 <img width="1011" height="1591" alt="cloud2 drawio" src="https://github.com/user-attachments/assets/e3b7557e-4b16-47de-a720-404a1944d969" />
 
 
-<img width="1008" height="4014" alt="cloud3 drawio" src="https://github.com/user-attachments/assets/34b20fed-41b6-4103-b7f8-d00e429d2acd" />
 
+
+<img width="1476" height="3003" alt="cloud5 drawio" src="https://github.com/user-attachments/assets/7a6ebd33-821f-4eb2-9a6c-d7851a630162" />
 
 
 Käyttäjät ja ryhmät
