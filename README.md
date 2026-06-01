@@ -17,7 +17,8 @@ Northwind Tech Oy on kuvitteellinen yritys, jota käytetään tässä projektiss
 
 Projektin aikana toteutetaan palvelimen asennus, toimialueen luonti, käyttäjien ja ryhmien hallinta sekä perusasetusten määrittely. Lisäksi huomioidaan järjestelmän ylläpito ja tietoturva.
 
-**![structure of the project](images/other/NorthWind_02.drawio.png)**
+
+<img width="1219" height="1035" alt="Northwind-Page-3 drawio" src="https://github.com/user-attachments/assets/bf012d0b-3612-4fbc-a082-04f87b776b54" />
 
 
 ## **2 PROJEKTISUUNNITELMA**  
