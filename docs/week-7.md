@@ -31,8 +31,8 @@
 
 ## **Identiteetinhallinta Entra ID:ssä**
 
-# *Ryhmän luominen*
-# *Entra ID → Ryhmät → + Uusi ryhmä → Security → Nimi: IT-Lab-Users → Jäsenyys: Määritetty → Lisää testuser → Luo *
+## *Ryhmän luominen*
+## *Entra ID → Ryhmät → + Uusi ryhmä → Security → Nimi: IT-Lab-Users → Jäsenyys: Määritetty → Lisää testuser → Luo*
 
 <img width="1923" height="624" alt="Screenshot from 2026-06-01 13-18-51" src="https://github.com/user-attachments/assets/b3d46366-1c8b-49fc-8570-4d0ba965ec3e" />
 
@@ -49,138 +49,6 @@
 
 
 
-<img width="1458" height="4531" alt="cloud7 drawio" src="https://github.com/user-attachments/assets/f616d071-442a-4a3e-8676-c8438d47ba86" />
-
-
-
-
-Käyttäjät ja ryhmät
-
-Käyttäjätilien luonti Ryhmät Salasanapolitiikka 
-
-:::
-:::
-------
-
-Projektin vaiheet
-Viikko 1 – Suunnittelu
-
-Projektisuunnitelma
-Asiakasvaatimukset
-Ympäristön valmistelu
-Virtualisointiympäristön asennus
-
-Tuotokset:
-Projektisuunnitelma, vaatimusmäärittely, video 1.
-
-Viikko 2 – Palvelin ja verkko
-
-Windows Server ‑asennus
-AD‑domainin luonti
-IP‑osoitteet
-
-Tuotokset:
-Palvelinasennuksen dokumentti, videota 2–3.
-
-Viikko 3 – Käyttäjät ja ryhmät
-
-Käyttäjätilien luonti
-Ryhmät
-Salasanapolitiikka
-Perus‑GPO‑asetukset
-
-Tuotokset:
-Käyttäjälista, GPO‑dokumentti, video 4.
-
-Viikko 4 – Työasemat
-
-Windows 10/11 asennus
-Työaseman liittäminen domainiin
-Sovellusten asennus
-Vakioitu työasema
-
-Tuotokset:
-Työaseman kuvaus, video 5–6.
-
-Viikko 5 – Tietoturva ja varmuuskopio
-
-Antivirus
-Palomuuri
-Varmuuskopion tekeminen
-Varmuuskopion palautus
-
-Tuotokset:
-Tietoturvadokumentti, varmuuskopiointi, video 7.
-
-Viikko 6 – Helpdesk‑tehtävät
-Teen 4–6 tyypillistä tukipyyntöä:
-
-En pääse kirjautumaan
-Tulostin ei toimi
-Ei internet‑yhteyttä
-Outlook ei käynnisty
-
-Teen dokumentit ja videot ratkaisusta.
-Tuotokset:
-Tukipyyntöjen dokumentit, video 8.
-
-Viikko 7 – Dokumentointi ja valmistelu
-
-Kaikkien dokumenttien viimeistely
-"Tutkintoexcel" täyttö
-PowerPoint esitys (suomeksi)
-Harjoittelu
-
-
-Viikko 8 – Näyttö
-
-Projektin esittely
-Videoiden ja ympäristön näyttö
-Kysymyksiin vastaaminen
-
-
-------
-
-
-* Luon käyttäjät, ryhmät ja OU-rakenteen  
-* Määritän GPO-käytännöt (esim. ruudunlukitus, USB-esto)  
-* Teen varmuuskopion ja testaan palautuksen  
-* Seuraan palvelimia (monitorointi)
-
-## 
-## **3.2 Teknisen tukipalvelun tavoitteet:**   
-
-* Asennan Windows 10/11 \-työaseman ja liitän domainin  
-* Asennan tarvittavat sovellukset  
-* Luon 4–6 fiktiivistä helpdesk-tukipyyntöä ja ratkaisen ne  
-* Harjoittelen etäyhteyttä (RDP)  
-* Dokumentoin kaikki tukipyynnöt
-
-**3.3 Dokumentaation tavoitteet:**
-
-* Kirjoitan projektisuunnitelman, asennusraportit ja tietoturvakuvauksen  
-* Teen kuvakaappauksia jokaisesta työvaiheesta  
-* Kirjoitan päiväkirjaa joka työpäivä
-
-
-
-**5.PERUSTOIMINTO:** 
-
-## **5.1 Active Directoryn käyttöönotto** 
-
-* Tavoite:  
-   Määrittää Active Directory **\-**toimialue alusta alkaen.  
-* Vaiheet:  
-* Asenna Windows Server virtuaalikoneeseen.  
-* Ylennä palvelin toimialueen ohjaimeksi (Domain Controller, DC).  
-* Luo Active Directory **\-**toimialue.  
-* Luo organisaatioyksiköt (OU:t) eri osastoja varten.  
-* Luo käyttäjätilit ja ryhmät näihin organisaatioyksiköihin.
-
-
-## 📑 Sisällysluettelo
-
-- #projektin-yleiskuvaus
 
 
 << [Home](/README.md)  
