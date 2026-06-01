@@ -1,17 +1,17 @@
   >>## [Home](/README.md)
   >> [viikko-1](/docs/week-1.md) >> [viikko-2](/docs/week-2.md) >> [viikko-3](/docs/week-3.md) >> [viikko-4](/docs/week-4.md) >> [viikko-5](/docs/week-5.md)  >> [viikko-6](/docs/week-6.md) >> [viikko-7](/docs/week-7.md) >> [viikko-8](/docs/week-8.md) 
 ---
-## **Week 7 – GPO & määritykset** 
+## **Week 7 – Pilven hallintatyökalujen esittely** 
 📅 2–02 May
 ----
 
 ### 🔧 Tehtävät
 
-  - Password Policy
-  - Desktop wallpaper
-  - Folder Redirection Policy
-  - Software Installation -7-Zip
-  - Drive Mapping
+  - DC02 liittäminen toimialueeseen
+  - Azure AD Connectin asentaminen DC02:lle
+  - Testikäyttäjälle lisenssin määritys 
+  - Identiteetinhallinta Entra ID:ssä 
+  - Työasemien asennus Autopilotilla
 ---
 
 
