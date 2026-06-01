@@ -51,6 +51,7 @@
 
 <img width="1203" height="361" alt="Screenshot from 2026-05-31 14-58-41" src="https://github.com/user-attachments/assets/e6331071-9d53-4154-b61b-9c25df91abe4" />
 
+<img width="2029" height="471" alt="Screenshot from 2026-06-01 13-11-06" src="https://github.com/user-attachments/assets/0ef86470-1851-466c-bc7d-19ccc9d0746d" />
 
 
 
