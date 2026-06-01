@@ -21,6 +21,23 @@
 <img width="1227" height="693" alt="Screenshot from 2026-06-01 12-08-30" src="https://github.com/user-attachments/assets/b67926f2-7775-43d1-ab16-acdf1aecc562" />
 
 
+## **Testikäyttäjälle lisenssin määritys**
+<img width="1872" height="786" alt="Screenshot from 2026-05-31 11-07-34" src="https://github.com/user-attachments/assets/4bdb2ebf-64f9-45ce-8176-e2d97d9a48fb" />
+
+>> Microsoft 365 admin center → Users → Test User → Licenses → + Assignments → Valitse lisenssi → Save
+
+<img width="2033" height="935" alt="Screenshot from 2026-05-31 13-41-05" src="https://github.com/user-attachments/assets/1fe02e01-d41f-4655-99e9-56fa10e3a8a9" />
+
+
+## **Identiteetinhallinta Entra ID:ssä**
+
+
+
+
+
+<img width="1458" height="4531" alt="cloud7 drawio" src="https://github.com/user-attachments/assets/f616d071-442a-4a3e-8676-c8438d47ba86" />
+
+
 
 
 Käyttäjät ja ryhmät
