@@ -21,6 +21,10 @@ Projektin aikana toteutetaan palvelimen asennus, toimialueen luonti, käyttäjie
 <img width="1219" height="1035" alt="Northwind-Page-3 drawio" src="https://github.com/user-attachments/assets/bf012d0b-3612-4fbc-a082-04f87b776b54" />
 
 
+
+
+
+
 ## **2 PROJEKTISUUNNITELMA**  
 
 Pienen yrityksen IT-ympäristön rakentaminen ja helpdesk-tuki  
@@ -35,6 +39,10 @@ Pienen yrityksen IT-ympäristön rakentaminen ja helpdesk-tuki
 | **Ohjaaja / Arvioija** | Kari Vikman · [kari.vikman@taitotalo.fi](mailto:kari.vikman@taitotalo.fi) |
 | **Tavoitearvosana** | Hyvä 4 |
 | **Versio** | 2.0 · Laadittu 7.4.2026 |
+
+<img width="1983" height="86" alt="Screenshot from 2026-06-01 18-34-44" src="https://github.com/user-attachments/assets/5d832268-f7d9-4e9f-bec0-e85799b0fcfe" />
+<img width="1829" height="441" alt="Screenshot from 2026-06-01 18-35-21" src="https://github.com/user-attachments/assets/b405ea6e-6f70-4db4-b267-f28f089558db" />
+
 
 ## **2.1 Projektin tarkoitus** 
 
