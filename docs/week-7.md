@@ -15,9 +15,12 @@
 <img width="1011" height="1591" alt="cloud2 drawio" src="https://github.com/user-attachments/assets/e3b7557e-4b16-47de-a720-404a1944d969" />
 
 
+<img width="1476" height="3003" alt="cloud5 drawio" src="https://github.com/user-attachments/assets/2e8d920e-3e1a-4ae7-adfe-1b1210e4fe87" />
+
+<img width="1246" height="651" alt="Screenshot from 2026-05-30 11-38-39" src="https://github.com/user-attachments/assets/5acd488f-2ced-45df-b1c5-d62e87ae52e3" />
+<img width="1227" height="693" alt="Screenshot from 2026-06-01 12-08-30" src="https://github.com/user-attachments/assets/b67926f2-7775-43d1-ab16-acdf1aecc562" />
 
 
-<img width="1476" height="3003" alt="cloud5 drawio" src="https://github.com/user-attachments/assets/7a6ebd33-821f-4eb2-9a6c-d7851a630162" />
 
 
 Käyttäjät ja ryhmät
