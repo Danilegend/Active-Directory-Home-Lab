@@ -31,6 +31,20 @@
 
 ## **Identiteetinhallinta Entra ID:ssä**
 
+# *Ryhmän luominen*
+# *Entra ID → Ryhmät → + Uusi ryhmä → Security → Nimi: IT-Lab-Users → Jäsenyys: Määritetty → Lisää testuser → Luo *
+
+<img width="1923" height="624" alt="Screenshot from 2026-06-01 13-18-51" src="https://github.com/user-attachments/assets/b3d46366-1c8b-49fc-8570-4d0ba965ec3e" />
+
+
+<img width="1629" height="691" alt="Screenshot from 2026-05-31 12-45-41" src="https://github.com/user-attachments/assets/e440344f-1ab5-442e-9270-6847a610a5c7" />
+
+## *Työasemien hallinta Intune* 
+<img width="2043" height="974" alt="Screenshot from 2026-05-31 14-57-12" src="https://github.com/user-attachments/assets/ac796c36-727e-48fa-9546-1f4433783e29" />
+
+<img width="1203" height="361" alt="Screenshot from 2026-05-31 14-58-41" src="https://github.com/user-attachments/assets/e6331071-9d53-4154-b61b-9c25df91abe4" />
+
+
 
 
 
