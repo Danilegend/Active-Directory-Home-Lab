@@ -4,7 +4,7 @@
   >> [viikko-1](/docs/week-1.md) >> [viikko-2](/docs/week-2.md) >> [viikko-3](/docs/week-3.md) >> [viikko-4](/docs/week-4.md) >> [viikko-5](/docs/week-5.md)  >> [viikko-6](/docs/week-6.md) >> [viikko-7](/docs/week-7.md) >> [viikko-8](/docs/week-8.md) 
 
 
-> 📅 April–May 2026  
+> 📅 Huhtikuu–Toukokuu 2026  
 
 ![General Look of the project ](images/other/Gemini_Generated_Image_1b6s5j1b6s5j1b6s.png)
 
@@ -13,7 +13,7 @@
 
 Tämän projektin tavoitteena on suunnitella ja toteuttaa Northwind Tech Oy:n IT-ympäristö. Projekti keskittyy erityisesti toimialueympäristön (Active Directory) käyttöönottoon sekä palvelin- ja työasemaympäristön kehittämiseen.
 
-Northwind Tech Oy on kuvitteellinen yritys, jota käytetään tässä projektissa esimerkkinä. Yrityksessä työskentelee noin 35 henkilöä eri osastoilla, kuten IT, myynti, talous ja asiakaspalvelu.
+Northwind Tech Oy on kuvitteellinen yritys, jota käytetään tässä projektissa esimerkkinä. Yrityksessä työskentelee noin 60 henkilöä eri osastoilla, kuten IT, myynti, talous ja asiakaspalvelu.
 
 Projektin aikana toteutetaan palvelimen asennus, toimialueen luonti, käyttäjien ja ryhmien hallinta sekä perusasetusten määrittely. Lisäksi huomioidaan järjestelmän ylläpito ja tietoturva.
 
