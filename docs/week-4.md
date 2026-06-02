@@ -4,7 +4,7 @@
 ---
 
 ## Viikko 4- **VERKKOSOVITTIMIEN MÄÄRITYS:** 
-📅 2–02 May
+📅 04–08 Toukokuu
 
 ----
 
