@@ -41,7 +41,8 @@ Pienen yrityksen IT-ympäristön rakentaminen ja helpdesk-tuki
 | **Versio** | 2.0 · Laadittu 7.4.2026 |
 
 <img width="1983" height="86" alt="Screenshot from 2026-06-01 18-34-44" src="https://github.com/user-attachments/assets/5d832268-f7d9-4e9f-bec0-e85799b0fcfe" />
-<img width="1829" height="441" alt="Screenshot from 2026-06-01 18-35-21" src="https://github.com/user-attachments/assets/b405ea6e-6f70-4db4-b267-f28f089558db" />
+
+<img width="1029" height="436" alt="Screenshot from 2026-06-02 14-53-05" src="https://github.com/user-attachments/assets/ab91340d-c002-4fae-83d1-9606ed2d6fce" />
 
 
 ## **2.1 Projektin tarkoitus** 
