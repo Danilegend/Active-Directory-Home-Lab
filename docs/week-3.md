@@ -3,7 +3,7 @@
 ---
 
 ## Viikko 3- **Järjestelmätuen tavoitteet:** 
-📅 20–24 April  
+📅 27–30 April  
 
 ---
 
