@@ -3,7 +3,7 @@
 ---
 ## Viikko 1 – Suunnittelu & alkuasetukset
 
-📅 7–11 Huhtikuu–2026  
+📅 7–10 Huhtikuu–2026  
 --
 
 ### 🔧 Tehtävät
