@@ -4,7 +4,7 @@
 ---
 
 ## Week 5 – Käyttäjät & ryhmät** 
-📅 2–02 May
+📅 11–15 Toukokuu
 ----
 
 ### 🔧 Tehtävät
