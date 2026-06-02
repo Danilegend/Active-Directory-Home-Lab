@@ -3,7 +3,7 @@
 ---
 
 ## **Week 6 – GPO & määritykset** 
-📅 18–22 May
+📅 18–22 Toukokuu
 
 ----
 
