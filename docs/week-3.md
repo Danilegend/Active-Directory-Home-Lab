@@ -3,7 +3,9 @@
 ---
 
 ## Viikko 3- **Järjestelmätuen tavoitteet:** 
-📅 24–30 April  
+📅 20–24 April  
+
+---
 
 ### 🔧 Tehtävät
 * Asennan Windows Server 2022 \-palvelimen  
