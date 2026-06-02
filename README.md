@@ -76,15 +76,15 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 
 ## 📅 Viikkokohtainen työ
 
-- ✅ [Week 1 – Suunnittelu & alkuasetukset](docs/week-1.md)
-- 🖥️ [Week 2 – Virtuaaliympäristö](docs/week-2.md)
-- ⚙️ [Week 3 – Palvelimen asennus](docs/week-3.md)
-- 🔐 [Week 4 – verkkosovittimien määritys](docs/week-4.md)
-- 👥 [Week 5 – Käyttäjät & ryhmät](docs/week-5.md)
-- 🛠️ [Week 6 – GPO & määritykset](docs/week-6.md)
-- ✅ [Week 7 – Pilven hallintatyökalujen esittely](docs/week-7.md)
-- ✅ [Week 8 – Varmuuskopiointi](docs/week-8.md)
-- ✅ [Week 9 – nöyto](docs/week-9.md)
+- ✅ [Viikko 1 – Suunnittelu & alkuasetukset](docs/week-1.md)
+- 🖥️ [Viikko 2 – Virtuaaliympäristö](docs/week-2.md)
+- ⚙️ [Viikko 3 – Palvelimen asennus](docs/week-3.md)
+- 🔐 [Viikko 4 – verkkosovittimien määritys](docs/week-4.md)
+- 👥 [Viikko 5 – Käyttäjät & ryhmät](docs/week-5.md)
+- 🛠️ [Viikko 6 – GPO & määritykset](docs/week-6.md)
+- ✅ [Viikko 7 – Pilven hallintatyökalujen esittely](docs/week-7.md)
+- ✅ [Viikko 8 – Varmuuskopiointi](docs/week-8.md)
+- ✅ [Viikko 9 – nöyto](docs/week-9.md)
 ---
 
 # 📅 VIikkokohtainen työ
