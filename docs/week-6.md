@@ -9,11 +9,12 @@
 
 ### 🔧 Tehtävät
 
-  - Password Policy
-  - Desktop wallpaper
-  - Folder Redirection Policy
-  - Software Installation -7-Zip
-  - Drive Mapping
+- Salasanakäytäntö
+- Työpöydän taustakuva
+- Kansioiden uudelleenohjauskäytäntö
+- Ohjelmiston asennus – 7‑Zip
+- Levyasemakartoitus (Drive Mapping)
+
 ---
 
 <img width="4400" height="2880" alt="image" src="https://github.com/user-attachments/assets/76c5f54c-d695-4394-8b4a-2e914899717f" />
