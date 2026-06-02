@@ -5,7 +5,7 @@
 
 
 ## Viikko 2 – Virtuaaliympäristö
-📅 18–24 April  
+📅 7–11 Huhtikuu–2026  
 
 ---
 
