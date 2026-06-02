@@ -3,7 +3,8 @@
 ---
 
 ## **Week 6 – GPO & määritykset** 
-📅 2–02 May
+📅 18–22 May
+
 ----
 
 ### 🔧 Tehtävät
