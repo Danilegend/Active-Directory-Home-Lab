@@ -11,6 +11,13 @@
 ![General Look of the project ](images/other/Gemini_Generated_Image_1b6s5j1b6s5j1b6s.png)
 
 
+
+
+
+
+
+
+
 ## **1 JOHDANTO**
 
 Tämän projektin tavoitteena on suunnitella ja toteuttaa Northwind Tech Oy:n IT-ympäristö. Projekti keskittyy erityisesti toimialueympäristön (Active Directory) käyttöönottoon sekä palvelin- ja työasemaympäristön kehittämiseen.
