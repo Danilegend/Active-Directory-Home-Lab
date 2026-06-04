@@ -11,6 +11,10 @@
 ![General Look of the project ](images/other/Gemini_Generated_Image_1b6s5j1b6s5j1b6s.png)
 
 
+![General Look of the project ](images/other/Empower(1).gif )
+
+
+
 
 
 
