@@ -47,7 +47,7 @@
 
 <img width="1629" height="691" alt="Screenshot from 2026-05-31 12-45-41" src="https://github.com/user-attachments/assets/e440344f-1ab5-442e-9270-6847a610a5c7" />
 
-## *Työasemien hallinta Intune* 
+## **Työasemien hallinta Intune**
 <img width="2043" height="974" alt="Screenshot from 2026-05-31 14-57-12" src="https://github.com/user-attachments/assets/ac796c36-727e-48fa-9546-1f4433783e29" />
 
 <img width="1203" height="361" alt="Screenshot from 2026-05-31 14-58-41" src="https://github.com/user-attachments/assets/e6331071-9d53-4154-b61b-9c25df91abe4" />
@@ -55,6 +55,7 @@
 <img width="2029" height="471" alt="Screenshot from 2026-06-01 13-11-06" src="https://github.com/user-attachments/assets/0ef86470-1851-466c-bc7d-19ccc9d0746d" />
 
 
+<img width="977" height="2074" alt="Autopilot drawio" src="https://github.com/user-attachments/assets/a4836645-767b-4efc-9425-2ae6fb200f2a" />
 
 
 
