@@ -8,13 +8,11 @@
 
 ### 🔧 Tehtävät
 
-  - DC02 liittäminen toimialueeseen
-  - Azure AD Connectin asentaminen DC02:lle
-  - Testikäyttäjälle lisenssin määritys 
-  - Identiteetinhallinta Entra ID:ssä 
-  - Työasemien asennus Autopilotilla
+  - Varmuuskopiointi 
+  
 ---
 
+<img width="1190" height="1955" alt="Bacup drawio" src="https://github.com/user-attachments/assets/8c42ef65-eadc-4830-b3b6-96c6d02cdee1" />
 
 
 Käyttäjät ja ryhmät
