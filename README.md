@@ -8,6 +8,9 @@
  
 ----
 
+Suunnittelu 
+---
+
 ![General Look of the project ](images/other/Empowe.gif )
 
 
@@ -86,9 +89,12 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 | **Tiedostojen tallennus** | OneDrive (varmuuskopiot \+ dokumentit) |
 | **Kommunikaatio** | Microsoft Teams |
 | **Projektinhallinta** | ProjectLibre |
+---
 
+# 📅 VIikkokohtainen työ
+---
 
-- 📋 [Viikko 1 – Suunnittelu & alkuasetukset](docs/week-1.md)
+- 📋 [Viikko 1 – alkuasetukset](docs/week-1.md)
 - 🖥️ [Viikko 2 – Virtuaaliympäristö](docs/week-2.md)
 - ⚙️ [Viikko 3 – Palvelimen asennus](docs/week-3.md)
 - 🌐 [Viikko 4 – verkkosovittimien määritys](docs/week-4.md)
@@ -97,9 +103,7 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 - ☁️ [Viikko 7 – Pilven hallintatyökalujen esittely](docs/week-7.md)
 - 💾 [Viikko 8 – Varmuuskopiointi](docs/week-8.md)
 - 🎬 [Viikko 9 – Näyttö](docs/week-9.md)
----
 
-# 📅 VIikkokohtainen työ
 
 ---
 
