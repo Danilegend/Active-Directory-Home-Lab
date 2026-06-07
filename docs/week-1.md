@@ -38,5 +38,5 @@ VMware VM \> New \> Nimi ja käyttöjärjestelmä \> Muisti (RAM) \> Kiintolevy 
 
 
   
-  >>## [Week 2 – Virtuaaliympäristö](/docs/week-2.md)
+  >>## >> [Week 2 – Virtuaaliympäristö](/docs/week-2.md)
   
