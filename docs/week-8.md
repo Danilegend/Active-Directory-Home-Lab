@@ -27,4 +27,4 @@
 << [week-5](/docs/week-5.md)
 << [week-6](/docs/week-6.md) 
 << [week-7](/docs/week-7.md) 
->>## >> [Week 9 – Pilven hallintatyökalujen esittely](/docs/week-9.md)
+>>## >> [Week 9 – Näyttö](/docs/week-9.md)
