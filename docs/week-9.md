@@ -11,6 +11,7 @@
   Näyttö
 ---
 
+![General Look of the project ](images/other/RASs.gif)
 
 
 Käyttäjät ja ryhmät
