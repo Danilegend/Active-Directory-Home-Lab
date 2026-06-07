@@ -8,7 +8,8 @@
 
 ### 🔧 Tehtävät
 
-  - Varmuuskopiointi 
+  - Varmuuskopiointi
+  - Koventaminen
   
 ---
 
