@@ -153,6 +153,6 @@ Kysymyksiin vastaaminen
 << [week-5](/docs/week-5.md)
 << [week-6](/docs/week-6.md) 
 << [week-7](/docs/week-7.md) 
->>## << [Week 8 – Palvelimen asennus](/docs/week-8.md)
+>>## << [Week 8 – Pilven hallintatyökalujen esittely](/docs/week-8.md)
 
 
