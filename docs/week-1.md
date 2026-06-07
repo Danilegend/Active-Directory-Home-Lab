@@ -7,9 +7,8 @@
 --
 
 ### 🔧 Tehtävät
-- Projektin suunnittelu
-- Vaatimusten määrittely
 - VMware asennus
+- Vaatimusten määrittely
 - Windows Server ISO lataus
 
 
