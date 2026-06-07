@@ -114,7 +114,7 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 - Vaatimusten määrittely
 - VMware asennus
 - Windows Server ISO lataus
-  >>## [Week 1 – Suunnittelu & alkuasetukset](docs/week-1.md)
+  >>## [Week 1 –  alkuasetukset](docs/week-1.md)
   
 
 
