@@ -87,7 +87,6 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 | **Kommunikaatio** | Microsoft Teams |
 | **Projektinhallinta** | ProjectLibre |
 
-## 📅 Viikkokohtainen työ
 
 - 📋 [Viikko 1 – Suunnittelu & alkuasetukset](docs/week-1.md)
 - 🖥️ [Viikko 2 – Virtuaaliympäristö](docs/week-2.md)
