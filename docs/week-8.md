@@ -19,4 +19,12 @@
 <img width="1210" height="2878" alt="Kova drawio" src="https://github.com/user-attachments/assets/3a108653-3cd2-4473-9a7d-f6eeb64af87a" />
 
 
-
+  << [Home](/README.md)  
+<< [week-1](/docs/week-1.md) 
+<< [week-2](/docs/week-2.md) 
+<< [week-3](/docs/week-3.md) 
+<< [week-4](/docs/week-4.md) 
+<< [week-5](/docs/week-5.md)
+<< [week-6](/docs/week-6.md) 
+<< [week-7](/docs/week-7.md) 
+>>## >> [Week 9 – Pilven hallintatyökalujen esittely](/docs/week-9.md)
