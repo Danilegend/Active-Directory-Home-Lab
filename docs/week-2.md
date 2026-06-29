@@ -13,7 +13,7 @@
 
   - Asenna Windows Server 2022
   - Alustava palvelimen määritys
-  - Määritä Administrator‑tili
+  - Määritä Administrator‑tili 
 
 
 ----
